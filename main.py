@@ -165,4 +165,8 @@ for sequence in ab1_full_paths:
 df_ab1['AVG Qual Values'] = avg_qual_vals
 df_ab1['AVG LOR'] = lors
 
+
+
+
+
 df_ab1.to_csv('df_ab1.csv')
